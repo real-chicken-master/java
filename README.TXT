@@ -5,7 +5,7 @@ all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE:test
-PURPOSE OF PROJECT:to get java files in github
+PURPOSE OF PROJECT:to get java files to run in github
 VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS:
